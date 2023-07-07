@@ -382,6 +382,7 @@ svg {
 }
 
 .proj-card {
+  cursor: pointer;
   width: 100%;
   max-width: 26rem;
   margin: 0.5rem;
